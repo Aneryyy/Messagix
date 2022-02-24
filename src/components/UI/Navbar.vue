@@ -59,7 +59,7 @@ export default {
     },
     methods: {
         openMenu() {
-            this.menuOpened = !this.menoOpened
+            this.menuOpened = !this.menuOpened
         },
     },
     mounted() {
